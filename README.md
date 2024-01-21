@@ -4,7 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=beruashvilig&label=Profile%20views&color=0e75b6&style=flat" alt="valerizanguri" /> </p>
 
-- 🔭 I’m currently working on **React Native development**
 
 
 - 👨‍💻 All of my projects are available at [https://github.com/zanguraa](https://github.com/zanguraa)
