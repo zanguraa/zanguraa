@@ -29,7 +29,9 @@
 <h3 align="left">ASP.NET Tools and Practices:</h3>
 <ul>
   <li>Clean Architecture</li>
-  <li>SeqLog</li>
+  <li>gRPG</li>
+  <li>Web API</li>
+  <li>Minimal API</li>
   <li>SeriLog</li>
   <li>SOLID Principles</li>
 </ul>
